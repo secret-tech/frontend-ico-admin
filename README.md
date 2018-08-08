@@ -1,6 +1,6 @@
-# Frontend ICO Admin [under development]
+# frontend ICO Admin
 
-This module provide administrator features for (Space ICO Dashboard)[https://github.com/secret-tech/backend-ico-dashboard]
+This module provide administrator features for [Space ICO Dashboard](https://github.com/secret-tech/backend-ico-dashboard)
 
 ______________________________
 
