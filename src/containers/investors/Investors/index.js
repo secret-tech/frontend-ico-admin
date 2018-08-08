@@ -1,7 +1,11 @@
 import React from 'react';
 
+import InvestorsTable from '../InvestorsTable';
+
 const Investors = () => (
-  <div>Investors container</div>
+  <div>
+    <InvestorsTable/>
+  </div>
 );
 
 export default Investors;
